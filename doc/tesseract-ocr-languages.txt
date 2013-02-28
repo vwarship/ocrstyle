@@ -1,0 +1,188 @@
+﻿tesseract-ocr-3.02.epo_alt.tar.gz 
+Esperanto alternative language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.eng.tar.gz 
+English language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.ukr.tar.gz 
+Ukrainian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.tur.tar.gz 
+Turkish language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.tha.tar.gz 
+Thai language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.tgl.tar.gz 
+Tagalog language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.tel.tar.gz 
+Telugu language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.tam.tar.gz 
+Tamil language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.swe.tar.gz 
+Swedish language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.swa.tar.gz 
+Swahili language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.srp.tar.gz 
+Serbian (Latin) language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.sqi.tar.gz 
+Albanian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.spa_old.tar.gz 
+Spanish (Old) language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.spa.tar.gz 
+Spanish language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.slv.tar.gz 
+Slovenian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.slk.tar.gz 
+Slovakian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.ron.tar.gz 
+Romanian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.por.tar.gz 
+Portuguese language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.pol.tar.gz 
+Polish language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.nor.tar.gz 
+Norwegian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.nld.tar.gz 
+Dutch language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.msa.tar.gz 
+Malay language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.mlt.tar.gz 
+Maltese language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.mkd.tar.gz 
+Macedonian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.mal.tar.gz 
+Malayalam language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.lit.tar.gz 
+Lithuanian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.lav.tar.gz 
+Latvian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.kor.tar.gz 
+Korean language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.kan.tar.gz 
+Kannada language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.ita_old.tar.gz 
+Italian (Old) language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.ita.tar.gz 
+Italian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.isl.tar.gz 
+Icelandic language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.ind.tar.gz 
+Indonesian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.chr.tar.gz 
+Cherokee language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.hun.tar.gz 
+Hungarian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.hrv.tar.gz 
+Croatian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.hin.tar.gz 
+Hindi language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.heb.tar.gz 
+Hebrew language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.glg.tar.gz 
+Galician language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.frm.tar.gz 
+Middle French (ca. 1400-1600) language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.frk.tar.gz 
+Frankish language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.fra.tar.gz 
+French language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.fin.tar.gz 
+Finnish language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.eus.tar.gz 
+Basque language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.est.tar.gz 
+Estonian language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.epo.tar.gz 
+Esperanto language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.enm.tar.gz 
+Middle English (1100-1500) language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.ell.tar.gz 
+Greek language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.deu.tar.gz 
+German language data for Tesseract 3.02 
+
+tesseract-ocr-3.02.dan.tar.gz 
+Danish language data for Tesseract 3.02
+
+tesseract-ocr-3.02.cat.tar.gz 
+Catalan language data for Tesseract 3.02
+
+tesseract-ocr-3.02.bul.tar.gz 
+Bulgarian language data for Tesseract 3.02
+
+tesseract-ocr-3.02.ben.tar.gz 
+Bengali language data for Tesseract 3.02
+
+tesseract-ocr-3.02.bel.tar.gz 
+Belarusian language data for Tesseract 3.02
+
+tesseract-ocr-3.02.aze.tar.gz 
+Azerbaijani language data for Tesseract 3.02
+
+tesseract-ocr-3.02.ara.tar.gz 
+Arabic language data for Tesseract 3.02
+
+tesseract-ocr-3.02.afr.tar.gz 
+Afrikaans language data for Tesseract 3.02
+
+tesseract-ocr-3.02.jpn.tar.gz 
+Japanese language data for Tesseract 3.02
+
+tesseract-ocr-3.02.chi_sim.tar.gz 
+Chinese (Simplified) language data for Tesseract 3.02
+
+tesseract-ocr-3.02.chi_tra.tar.gz 
+Chinese (Traditional) language data for Tesseract 3.02
+
+tesseract-ocr-3.02.grc.tar.gz 
+Ancient Greek Language data for Tesseract 3.02
+
+tesseract-ocr-3.02.rus.tar.gz 
+Russian Language Data for Tesseract 3.02
+
+tesseract-ocr-3.02.vie.tar.gz 
+Vietnamese Language Data for Tesseract 3.02.02 

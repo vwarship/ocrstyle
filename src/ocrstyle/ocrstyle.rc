@@ -1,0 +1,33 @@
+#define OCRSTYLE_VERSION 1,0,1,0
+
+1 TYPELIB "ocrstyle.rc"
+1 ICON DISCARDABLE "./images/ocrstyle.ico"
+
+1 VERSIONINFO
+ FILEVERSION OCRSTYLE_VERSION
+ PRODUCTVERSION OCRSTYLE_VERSION
+ FILEFLAGS 0x0L
+ FILEFLAGSMASK 0x3fL
+ FILEOS 0x00040004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "000004b0"
+        BEGIN
+            VALUE "CompanyName", "OCR Style"
+            VALUE "FileDescription", "OCR Style"
+            VALUE "FileVersion", "1.0"
+            VALUE "LegalCopyright", ""
+            VALUE "InternalName", "OCR Style"
+            VALUE "OriginalFilename", "ocrstyle.exe"
+            VALUE "ProductName", "OCR Style"
+            VALUE "ProductVersion", "1.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0, 1200
+    END
+END

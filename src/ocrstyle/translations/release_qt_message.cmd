@@ -1,0 +1,1 @@
+lrelease -verbose ../ocrstyle.pro
