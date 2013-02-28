@@ -3,7 +3,7 @@
 !define PRODUCT_NAME "OCR Style"
 !define PRODUCT_VERSION "1.0"
 !define PRODUCT_PUBLISHER "Íõ¾ü½¨"
-!define PRODUCT_WEB_SITE "http://www.ocrstyle.com/"
+!define PRODUCT_WEB_SITE "https://github.com/vwarship/ocrstyle"
 !define PRODUCT_DIR_REGKEY "Software\Microsoft\Windows\CurrentVersion\App Paths\${OCRSTYLE_NAME}"
 !define PRODUCT_UNINST_KEY "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}"
 !define PRODUCT_UNINST_ROOT_KEY "HKLM"

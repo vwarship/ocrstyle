@@ -800,7 +800,7 @@ void MainWindow::about()
     QMessageBox::about(this, tr("About %1").arg("OCR Style"),
             tr("%1"
                "<p>Copyright @ 2013 Junjian Wang.</p>"
-               "<p>All Rights Reserved.</p>").arg("<p><b>OCR Style 1.0</b></p>"));
+               "<p>All Rights Reserved.</p>").arg("<p><b>OCR Style 1.0</b></p><p><a href='https://github.com/vwarship/ocrstyle/'>https://github.com/vwarship/ocrstyle/</a></p><p>Email: <a href='mailto:vwarship@163.com'>vwarship@163.com</a></p>"));
 }
 
 void MainWindow::updateActions()
