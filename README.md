@@ -1,9 +1,7 @@
-# <img src="ocrstyle.ico" alt="pageres">OCR Style
+#<img src="ocrstyle.ico" alt="pageres">OCR Style
 
-========
-Optical Character Recognition
+##Optical Character Recognition
 
-========
 ##背景
 本程序最初是想用于发票识别的，目前可以通过ocrengine和imageprocess动态库进行二次开发。
 
