@@ -16,8 +16,9 @@
 
 ##编译环境
 * ocrstyle 使用的Qt4.8开发的。
-* ocrengine 使用Visual C++ Express 2008开发的。这个工程依赖third-party目录下的tesseract OCR开发库，目前是google维护的，项目地址：http://code.google.com/p/tesseract-ocr/。当时开发的时候官方只有VC2008的开发库，于是就用的VC2008开发了。
+* ocrengine 使用Visual C++ Express 2008开发的。这个工程依赖third-party目录下的tesseract OCR开发库，目前是google维护的，当时开发的时候官方只有VC2008的开发库，于是就用的VC2008开发了。项目地址：http://code.google.com/p/tesseract-ocr/。
 * imageprocess 使用的Visual C++ Express 2010开发的。这个工程依赖于OpenCV。项目地址：http://opencv.org/
+* buildscripts/ocrstyle.nsi 打包安装包使用的NSIS。
 
 ##截图
 ###主界面
