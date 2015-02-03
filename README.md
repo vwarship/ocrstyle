@@ -16,9 +16,17 @@
 
 ##编译环境
 * ocrstyle 使用的Qt4.8开发的。
-* ocrengine 使用Visual C++ Express 2008开发的。这个工程依赖third-party目录下的tesseract OCR开发库，目前是google维护的，当时开发的时候官方只有VC2008的开发库，于是就用的VC2008开发了。项目地址：http://code.google.com/p/tesseract-ocr/。
+* ocrengine 使用Visual C++ Express 2008开发的。这个工程依赖third-party目录下的Tesseract OCR开发库，目前是google维护的，当时开发的时候官方只有VC2008的开发库，于是就用的VC2008开发了。项目地址：http://code.google.com/p/tesseract-ocr/。
 * imageprocess 使用的Visual C++ Express 2010开发的。这个工程依赖于OpenCV。项目地址：http://opencv.org/
 * buildscripts/ocrstyle.nsi 打包安装包使用的NSIS。
+
+##动态库的接口
+* ImageProcessAPI.h 主要功能：图像的加载、灰度处理、倾斜校正、保存等。
+* OCREngine.h 主要功能：配置识别的语言、传入要识别的图像数据、获得文本。
+
+##思路
+* 扫描的电子发票一般都有点倾斜，所以要对图片进行倾斜校正。为了方便识别需要进行灰度处理。
+* 一般是要识别发票上的部分内容，所以要想办法把要识别的文本区域的图像数据传给Tesseract OCR，然后获得文本。
 
 ##截图
 ###主界面
